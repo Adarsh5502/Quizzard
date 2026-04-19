@@ -277,11 +277,21 @@
     "fullName": "Adaarsh",
     "email": "adarsh@gmail.com",
     "avatar": "",
-    "totalScore": 0,
-    "weeklyScore": 0,
-    "quizzesCompleted": 0,
-    "highestStreak": 0,
-    "history": [],
+    "totalScore": 10,
+    "weeklyScore": 10,
+    "quizzesCompleted": 1,
+    "highestStreak": 1,
+    "history": [
+      {
+        "topic": "Full MERN Stack",
+        "score": 10,
+        "totalQuestions": 10,
+        "correctAnswers": 1,
+        "passed": false,
+        "date": "2026-04-19T13:34:06.560Z",
+        "_id": "69e4d9ce6013eaf3cee5b57f"
+      }
+    ],
     "notifications": [
       {
         "message": "Welcome to your new magical dashboard! 🪄",
@@ -306,7 +316,8 @@
       }
     ],
     "createdAt": "2026-04-19T12:49:03.859Z",
-    "updatedAt": "2026-04-19T12:49:08.324Z",
-    "__v": 0
+    "updatedAt": "2026-04-19T13:34:06.655Z",
+    "__v": 0,
+    "lastQuizDate": "2026-04-19T13:34:06.560Z"
   }
 ]
